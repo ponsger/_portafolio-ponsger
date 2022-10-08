@@ -1,0 +1,14 @@
+.encabezado__lista--item{
+    font-weight: 700;
+    width: calc(25% - 10px);
+    margin-left: 3px;
+    text-decoration: double underline;
+    color: var(--color-importante);
+    font-size: .9rem;
+    transition: all .5s ease-in-out;
+    display: inline-block;
+}
+
+.encabezado__lista--item:hover{
+    transform: scale(1.2);
+}

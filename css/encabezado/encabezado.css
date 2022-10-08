@@ -1,0 +1,5 @@
+.encabezado{
+    background-color: var(--background-encabezado);
+    font-family: 'Poppins', 'Open-Sans', 'Montserrat', sans-serif;
+    transition: all 3s;
+}

@@ -1,0 +1,8 @@
+.sobre-mi__titulo{
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Poppins', 'Open-Sans', 'Montserrat', sans-serif;
+    font-size: 2rem;
+    padding: 1rem 0 1.25rem 0;
+}

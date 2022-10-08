@@ -1,0 +1,6 @@
+.sobre-mi__imagen{
+    height: 200px;
+    width: 300px;
+    background: url('../../img/dispositivos.png') no-repeat;
+    background-size: cover;
+}

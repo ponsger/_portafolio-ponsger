@@ -1,0 +1,7 @@
+.encabezado__presentacion{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    transition: all 3s;
+}

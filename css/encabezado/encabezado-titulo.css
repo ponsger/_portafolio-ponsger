@@ -1,0 +1,8 @@
+.encabezado__titulo{
+    font-weight: 700;
+    text-align: justify;
+    line-height: normal;
+    font-size: 1.3rem;
+    color: var(--color-importante);
+    transition: all 3s;
+}

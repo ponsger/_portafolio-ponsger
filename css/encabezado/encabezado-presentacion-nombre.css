@@ -1,0 +1,7 @@
+.encabezado__presentacion--nombre{
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--color-importante);
+    transition: all 3s;
+}

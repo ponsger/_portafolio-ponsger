@@ -1,0 +1,6 @@
+.encabezado__lista{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    transition: all 3s;
+}

@@ -1,20 +1,71 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400&family=Poppins:wght@300&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/container.css">
+    <!--Css de encabezado-->
+    <link rel="stylesheet" href="css/encabezado/encabezado.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-presentacion.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-presentacion-nombre.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-presentacion-contacto.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-imagen.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-titulo.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-descripcion.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-lista.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-lista-item.css">
+
+    <!-- Css de Sobre mi -->
+    <link rel="stylesheet" href="css/sobre-mi/sobre-mi-titulo.css">
+    <link rel="stylesheet" href="css/sobre-mi/sobre-mi-descripcion.css">
+    <link rel="stylesheet" href="css/sobre-mi/sobre-mi-imagen.css">
+
+    <!-- Css del footer -->
+    <link rel="stylesheet" href="css/pie-de-pagina/pie-de-pagina.css">
+
+
+
     <title>Portafolio de German Pons</title>
 </head>
-<body>
-    <header>
 
+<body>
+    <header class="encabezado container">
+            <div class="encabezado__presentacion">
+                <p class="encabezado__presentacion--nombre">Germán Pons</p>
+                <address><a class="encabezado__presentacion--contacto"
+                        href="mailto:german.aopg@gmail.com">german.aopg@gmail.com</a></address>
+            </div>
+            <div class="encabezado__imagen"></div>
+            <h1 class="encabezado__titulo">Hola mi nombre es Germán Pons y soy desarrollador Full Stack</h1>
+            <p class="encabezado__descripcion">Soy desarrollador Full Stack pero quiero seguir aunmentando mis
+                conocimientos y reforzar algunos otros es por eso que actualmente me encuentro participando en el
+                proyecto Oracle ONE en Alura Latam.</p>
+            <ul class="encabezado__lista">
+                <li><a class="encabezado__lista--item" href="#">Github</a></li>
+                <li><a class="encabezado__lista--item" href="#">LinkedIn</a></li>
+                <li><a class="encabezado__lista--item" href="#">Instagram</a></li>
+                <li><a class="encabezado__lista--item" href="#">Curriculo</a></li>
+            </ul>
     </header>
     <main>
+        <section class="sobre-mi container">
+            <h1 class="sobre-mi__titulo">Sobre mi</h1>
+            <p class="sobre-mi__descripcion">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra </p>
+            <div class="sobre-mi__imagen"></div>
+        </section>
 
     </main>
-    <footer>
-        
+    <footer class="pie-de-pagina">
+        <h1>Creador por Germán Pons</h1>
+        <p>Esta página se encuentra en constante cambio, debido a que se agregan y modifican proyectos</p>
     </footer>
 </body>
+
 </html>

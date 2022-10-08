@@ -1,0 +1,6 @@
+.encabezado__presentacion--contacto{
+    text-decoration: none;
+    color: var(--color-blanco);
+    font-size: 0.7rem;
+    transition: all 3s;
+}
