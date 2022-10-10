@@ -1,0 +1,4 @@
+.hobbies__container--cajas{
+    display: flex;
+    flex-wrap: wrap;
+}

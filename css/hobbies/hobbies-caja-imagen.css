@@ -1,0 +1,53 @@
+.hobbies__caja__imagen--videojuegos{
+    background: url('../../img/hobbies/videogames.png');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}
+
+.hobbies__caja__imagen--music{
+    background: url('../../img/hobbies/music.png');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}
+
+.hobbies__caja__imagen--programming{
+    background: url('../../img/hobbies/programming.webp');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}
+
+
+.hobbies__caja__imagen--running{
+    background: url('../../img/hobbies/running.ico');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}
+
+.hobbies__caja__imagen--sports{
+    background: url('../../img/hobbies/sports.png');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}
+.hobbies__caja__imagen--walk{
+    background: url('../../img/hobbies/walk.png');
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+}

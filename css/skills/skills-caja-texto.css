@@ -4,4 +4,5 @@
     color: var(--color-importante);
     line-height: 1;
     letter-spacing: 2px;
+    text-transform: capitalize;
 }
