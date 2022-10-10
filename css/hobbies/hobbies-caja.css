@@ -5,6 +5,7 @@
     box-shadow: 5px 2px 25px #000;
     margin: 1rem;
     padding: .2rem;
+    cursor: pointer;
 }
 
 .hobbies__caja:hover{

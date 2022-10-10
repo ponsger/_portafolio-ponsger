@@ -1,0 +1,16 @@
+.cifrador{
+    background: url('../../img/cifrador.png');
+}
+
+.ahorcado{
+    background: url('../../img/ahorcado.png');
+}
+
+.proyecto__imagen{
+    width: 90%;
+    height: 150px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}

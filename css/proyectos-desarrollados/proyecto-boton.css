@@ -1,0 +1,22 @@
+.btn{
+    border: none;
+    padding: 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family: var(--texto-family);
+    letter-spacing: 2px;
+    color:#fff;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.proyecto__boton-visitar {
+    background-color: var(--background-encabezado);
+}
+.proyecto__boton-repositorio{
+    background-color: var(--color-importante);
+}
+
+.btn:hover{
+    opacity: 70%;
+}
