@@ -1,0 +1,7 @@
+.proyecto__titulo{
+    text-align: center;
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    margin-top: 10px;
+    font-family: var(--texto-family);
+}

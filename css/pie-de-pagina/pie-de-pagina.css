@@ -1,5 +1,10 @@
 .pie-de-pagina{
     background :#1f466c ;
+    color: #fff;
+    font-family: var(--texto-family);
+    font-size: .8rem;
+    letter-spacing: 2px;
+    padding: 20px;
 }
 
 @media screen and (min-width: 768px){

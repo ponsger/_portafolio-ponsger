@@ -1,0 +1,9 @@
+.pie-de-pagina__important-mesagge{
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.pie-de-pagina__important-mesagge:hover{
+    text-decoration: double underline;
+    text-decoration-color: aquamarine;
+}
