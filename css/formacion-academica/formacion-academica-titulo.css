@@ -1,0 +1,10 @@
+.formacion-academica__tiulo{
+    line-height: 1;
+    letter-spacing: 2px;
+    font-family: var(--texto-family);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 1rem;
+}

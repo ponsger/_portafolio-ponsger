@@ -1,53 +1,31 @@
-.hobbies__caja__imagen--videojuegos{
+.videojuegos{
     background: url('../../img/hobbies/videogames.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
 }
 
-.hobbies__caja__imagen--music{
+.music{
     background: url('../../img/hobbies/music.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
 }
 
-.hobbies__caja__imagen--programming{
+.programming{
     background: url('../../img/hobbies/programming.webp');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
 }
 
-
-.hobbies__caja__imagen--running{
+.running{
     background: url('../../img/hobbies/running.ico');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
 }
 
-.hobbies__caja__imagen--sports{
+.sports{
     background: url('../../img/hobbies/sports.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
 }
-.hobbies__caja__imagen--walk{
+
+.walk{
     background: url('../../img/hobbies/walk.png');
-    width: 100px;
+}
+
+.hobbies__caja__imagen {
+    width: 90%;
     height: 100px;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: auto;
+    background-size: contain;
+    background-position:center;
 }
