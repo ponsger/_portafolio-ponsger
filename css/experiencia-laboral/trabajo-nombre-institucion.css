@@ -1,0 +1,7 @@
+.trabajo__nombre-institucion{
+    font-family: var(--texto-family);
+    font-size: 1.4rem;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}

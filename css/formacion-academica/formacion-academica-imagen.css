@@ -1,0 +1,18 @@
+
+.ntust{
+    background: url('../../img/ntust.webp');
+}
+
+.escom{
+    background: url('../../img/escom.webp');
+}
+
+.formacion-academica__imagen {
+    width: 90%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin: 1rem;
+    padding: 0;
+}

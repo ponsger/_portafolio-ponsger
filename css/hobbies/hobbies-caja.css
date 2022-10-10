@@ -1,8 +1,12 @@
 .hobbies__caja{
     background-color: var(--color-blanco);
-    width: 40%;
+    width: calc(47% - 2rem);
     box-sizing: border-box;
     box-shadow: 5px 2px 25px #000;
     margin: 1rem;
-    padding: 1rem;
+    padding: .2rem;
+}
+
+.hobbies__caja:hover{
+    scale: 1.3;
 }

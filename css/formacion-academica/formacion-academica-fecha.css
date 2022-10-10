@@ -1,0 +1,7 @@
+.formacion-academica__fecha{
+    font-family: var(--texto-family);
+    font-size: 1rem;
+    color: #37567e;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
