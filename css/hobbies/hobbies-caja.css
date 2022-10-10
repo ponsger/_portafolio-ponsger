@@ -1,0 +1,8 @@
+.hobbies__caja{
+    background-color: var(--color-blanco);
+    width: 40%;
+    box-sizing: border-box;
+    box-shadow: 5px 2px 25px #000;
+    margin: 1rem;
+    padding: 1rem;
+}

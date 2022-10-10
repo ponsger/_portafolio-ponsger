@@ -1,0 +1,8 @@
+.hobbies__titulo{
+    line-height: 3;
+    font-family: 'Poppins', 'Open-Sans', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+}

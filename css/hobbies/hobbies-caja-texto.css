@@ -1,0 +1,8 @@
+.hobbies__caja__texto{
+    text-transform: capitalize;
+    line-height: 1;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: .8rem;
+    font-family: var( --texto-family);
+}
