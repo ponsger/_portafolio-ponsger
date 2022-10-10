@@ -1,0 +1,7 @@
+.skills__caja__texto{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--color-importante);
+    line-height: 1;
+    letter-spacing: 2px;
+}
