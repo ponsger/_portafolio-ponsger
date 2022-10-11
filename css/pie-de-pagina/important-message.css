@@ -1,6 +1,7 @@
 .pie-de-pagina__important-mesagge{
     letter-spacing: 5px;
     text-decoration: underline;
+    text-align: center;
 }
 
 .pie-de-pagina__important-mesagge:hover{
