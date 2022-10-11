@@ -1,5 +1,5 @@
 .encabezado__presentacion--contacto{
-    text-decoration: none;
+    text-decoration: double underline;
     color: var(--color-blanco);
     font-size: 0.7rem;
     transition: all 3s;

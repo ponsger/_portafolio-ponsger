@@ -22,6 +22,9 @@
     <link rel="stylesheet" href="css/encabezado/encabezado-lista.css">
     <link rel="stylesheet" href="css/encabezado/encabezado-lista-item.css">
     <link rel="stylesheet" href="css/encabezado/encabezado-yo.css">
+    <link rel="stylesheet" href="css/encabezado/encabezado-navegacion.css">
+    <link rel="stylesheet" href="css/encabezado/navegacion-lista-item.css">
+    <link rel="stylesheet" href="css/encabezado/navegacion-lista.css">
 
     <!-- Css de Sobre mi -->
     <link rel="stylesheet" href="css/sobre-mi/sobre-mi-titulo.css">
@@ -85,6 +88,16 @@
     <header class="encabezado container">
         <div class="encabezado__presentacion">
             <p class="encabezado__presentacion--nombre">Germán Pons</p>
+            <nav class="encabezado__navegacion">
+                <ul class="navegacion__lista">
+                    <li><a href="#sobre-mi" class="navegacion__lista--item">Sobre mi</a></li>
+                    <li><a href="#skills" class="navegacion__lista--item">Skills</a></li>
+                    <li><a href="#hobbies" class="navegacion__lista--item">Hobbies</a></li>
+                    <li><a href="#formacion" class="navegacion__lista--item">Formación academica</a></li>
+                    <li><a href="#experiencia" class="navegacion__lista--item">Experiencia laboral</a></li>
+                    <li><a href="#proyectos" class="navegacion__lista--item">Proyectos desarrollados</a></li>
+                </ul>
+            </nav>
             <address><a class="encabezado__presentacion--contacto"
                     href="mailto:german.aopg@gmail.com">german.anorve@hotmail.com</a></address>
         </div>
@@ -114,7 +127,7 @@
                     download="Cv German Pons.pdf">Curriculo<i>&#8663;</i></a></li>
         </ul>
     </header>
-    <section class="sobre-mi container">
+    <section id="sobre-mi" class="sobre-mi container">
         <h1 class="sobre-mi__titulo">Sobre mi</h1>
         <p class="sobre-mi__descripcion">Ingeniero en sistemas computacionales, en busca crecimiento personal y
             profesional
@@ -125,7 +138,7 @@
             Azure. </p>
         <div class="sobre-mi__imagen"></div>
     </section>
-    <section class="skills">
+    <section id="skills" class="skills">
         <h1 class="skills__titulo">Skills</h1>
         <div class="skills__container--cajas">
             <div class="skills__caja">
@@ -155,7 +168,7 @@
         </div>
 
     </section>
-    <section class="hobbies container">
+    <section id="hobbies" class="hobbies container">
         <h1 class="hobbies__titulo">Hobbies</h1>
         <div class="hobbies__container--cajas">
             <div class="hobbies__caja">
@@ -184,7 +197,7 @@
             </div>
         </div>
     </section>
-    <section class="formacion-academica">
+    <section id="formacion" class="formacion-academica">
         <h1 class="formacion-academica__tiulo">Formación academica</h1>
         <div class="formacion-academica__instituciones">
             <div class="formacion-academica__institucion">
@@ -201,7 +214,7 @@
             </div>
         </div>
     </section>
-    <section class="experiencia-laboral container">
+    <section id="experiencia" class="experiencia-laboral container">
         <h1 class="expericencia-laboral__titulo">Experiencia laboral</h1>
         <div class="trabajos">
             <div class="trabajo">
@@ -222,7 +235,7 @@
         </div>
 
     </section>
-    <section class="proyectos-desarrollados">
+    <section id="proyectos" class="proyectos-desarrollados">
         <h1 class="proyectos-desarrollados__titulo">Proyectos desarrollados</h1>
         <div class="proyectos">
             <div class="proyecto">
