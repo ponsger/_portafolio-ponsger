@@ -7,3 +7,15 @@
     width: 45%;
     margin: 1rem;
 }
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+    .skills__caja{
+        width: 20%;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .skills__caja{
+        width: calc(16% - 2rem);
+    }
+}

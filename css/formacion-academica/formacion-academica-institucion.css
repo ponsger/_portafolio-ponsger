@@ -1,0 +1,10 @@
+.formacion-academica__institucion{
+    width: 100%;
+}
+
+@media screen and (min-width:768px) {
+    .formacion-academica__institucion{
+        width: 30%;
+        margin: auto 10px;
+    }
+}
