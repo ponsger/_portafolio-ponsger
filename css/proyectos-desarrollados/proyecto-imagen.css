@@ -6,6 +6,10 @@
     background: url('../../img/ahorcado.png');
 }
 
+.agenda{
+    background: url('../../img/Agenda.png');
+}
+
 .proyecto__imagen{
     width: 90%;
     height: 150px;
