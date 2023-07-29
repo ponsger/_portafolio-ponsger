@@ -5,7 +5,7 @@ import '../css/sobre-mi/sobre-mi-imagen.css'
 function About() {
 
     return (
-        <section id="sobre-mi" class="sobre-mi container">
+        <section id="Sobremi" class="sobre-mi container">
             <h1 class="sobre-mi__titulo">Sobre mi</h1>
             <p class="sobre-mi__descripcion">Ingeniero en sistemas computacionales, en busca crecimiento personal y
                 profesional

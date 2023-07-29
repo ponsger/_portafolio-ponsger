@@ -10,7 +10,7 @@ import '../css/proyectos-desarrollados/proyecto.css'
 
 function Projects() {
     return (
-        <section id="proyectos" class="proyectos-desarrollados">
+        <section id="Proyectosdesarrollados" class="proyectos-desarrollados">
             <h1 class="proyectos-desarrollados__titulo">Proyectos desarrollados</h1>
             <div class="proyectos">
                 <div class="proyecto">
