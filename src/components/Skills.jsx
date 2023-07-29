@@ -8,7 +8,7 @@ import '../css/skills/skills-container-cajas.css'
 function Skills() {
 
     return (
-        <section id="skills" class="skills">
+        <section id="Skills" class="skills">
             <h1 class="skills__titulo">Skills</h1>
             <div class="skills__container--cajas">
                 <div class="skills__caja">
