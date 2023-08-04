@@ -1,0 +1,9 @@
+.skills__layer-title{
+    text-align: center;
+    text-transform: capitalize;
+    color: #ddd;
+    font-size: 1.5rem;
+    text-decoration:solid;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
