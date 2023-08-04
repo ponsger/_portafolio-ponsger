@@ -1,55 +1,5 @@
-.skills__caja__imagen--html{
-    background: url('../../img/skills/html.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 1rem auto;
-}
-
-.skills__caja__imagen--css{
-    background: url('../../img/skills/css.webp');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 1rem auto;
-}
-
-.skills__caja__imagen--database{
-    background: url('../../img/skills/database.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 1rem auto;
-}
-
-.skills__caja__imagen--javascript{
-    background: url('../../img/skills/javascript.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 1rem auto;
-}
-
-.skills__caja__imagen--net{
-    background: url('../../img/skills/net.png');
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 1rem auto;
-}
-
-.skills__caja__imagen--python{
-    background: url('../../img/skills/python.svg');
+.skills__caja__imagen{
+    /* background: url('../../img/skills/html.png'); */
     width: 100px;
     height: 100px;
     background-repeat: no-repeat;

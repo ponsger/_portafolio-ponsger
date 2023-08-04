@@ -1,7 +1,7 @@
 .sobre-mi__imagen{
     height: 200px;
     width: calc(90%-3rem);
-    background: url('../../img/dispositivos.png') no-repeat;
+    /* background: url('../../img/dispositivos.png') no-repeat; */
     background-size: contain;
     background-position: center;
 }
