@@ -1,4 +1,8 @@
 .navegacion__lista{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    gap:10px;
 }

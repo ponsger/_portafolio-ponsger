@@ -1,6 +1,6 @@
 .encabezado__presentacion{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     margin-bottom: 1rem;
     flex-wrap: wrap;
     transition: all 3s;

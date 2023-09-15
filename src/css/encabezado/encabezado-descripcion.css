@@ -1,7 +1,7 @@
 .encabezado__descripcion{
-    line-height: 1.5rem;
+    line-height: normal;
     text-align: justify;
-    font-size: .9rem;
+    font-size: 2.5rem;
     padding:1rem 0;
     transition: all 3s;
 }

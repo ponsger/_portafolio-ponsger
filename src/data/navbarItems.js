@@ -4,6 +4,7 @@ export const items = ["Sobre mi",
     // "Hobbies",
     // "Formación academica",
     // "Experiencia laboral",
-    "Proyectos desarrollados"]
+    "Proyectos desarrollados",
+    "Contacto"]
 
     //el mismo nombre que tendrá el id para poder moverse

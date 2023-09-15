@@ -1,0 +1,6 @@
+.navbar-about{
+    background: linear-gradient(180deg, #111,#333);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

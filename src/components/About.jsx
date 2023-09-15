@@ -1,3 +1,4 @@
+import '../css/sobre-mi/sobre-mi.css';
 import '../css/sobre-mi/sobre-mi-titulo.css'
 import '../css/sobre-mi/sobre-mi-descripcion.css'
 import '../css/sobre-mi/sobre-mi-imagen.css'

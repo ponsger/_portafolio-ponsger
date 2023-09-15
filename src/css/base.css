@@ -1,6 +1,12 @@
 :root{
-    --background-encabezado:#d0d0d0;
-    --color-importante:rgb(25, 74, 180);
-    --color-blanco:#fff;
+    --background-encabezado:#111;
+    --color-importante:rgb(50, 140, 240);
+    --color-blanco:#ddd;
     --texto-family:'Poppins', 'Open-Sans', 'Montserrat', sans-serif;
+    --color-secundario: rgb(100,200,240);
+}
+
+body{
+    margin: 0;
+    color: var(--color-blanco);
 }

@@ -4,8 +4,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgba(18, 35, 178, 0.6);
+    background-color: #555;
     border-radius: 10px;
-    border: 5px solid #ddd  ;
+    box-shadow: 0 0 10px white;
     margin: 2%;
+    padding: 2%;
 }

@@ -4,16 +4,14 @@ import List from './Header/List'
 
 import {contact} from '../data/socialNetwork'
 
-import '../css/encabezado/encabezado.css'
+import Navbar from './Navbar';
+import {items} from '../data/navbarItems'
+
 
 
 function Header() {
     return (
-        <header class="encabezado container">
-            <Introduce />
-            <Me />
-            <List socialNetwork={contact}/>
-        </header>
+        <></>
     )
 
 }

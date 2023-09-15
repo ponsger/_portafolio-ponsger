@@ -1,8 +1,9 @@
 .proyecto__titulo{
     text-align: center;
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     text-transform: capitalize;
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: var(--texto-family);
+    color:var(--color-secundario);
 }

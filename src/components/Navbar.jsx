@@ -1,6 +1,6 @@
-import '../../css/encabezado/encabezado-navegacion.css'
-import '../../css/encabezado/navegacion-lista-item.css'
-import '../../css/encabezado/navegacion-lista.css'
+import '../css/encabezado/encabezado-navegacion.css'
+import '../css/encabezado/navegacion-lista-item.css'
+import '../css/encabezado/navegacion-lista.css'
 
 function Navbar({items}) {
     return (

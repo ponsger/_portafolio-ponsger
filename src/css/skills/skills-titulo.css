@@ -4,6 +4,7 @@
     font-family: 'Poppins', 'Open-Sans', 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 2rem;
-    border-top: 1px solid #Ddd;
+    font-size: 3rem;
+    margin: 0;
+    color: var(--color-importante);
 }
